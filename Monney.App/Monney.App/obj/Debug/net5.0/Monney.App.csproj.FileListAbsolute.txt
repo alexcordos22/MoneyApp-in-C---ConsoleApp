@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\Monney.App\Monney.App\bin\Debug\net5.0\Monney.App.exe
+C:\Users\LENOVO\source\repos\Monney.App\Monney.App\bin\Debug\net5.0\Monney.App.deps.json
+C:\Users\LENOVO\source\repos\Monney.App\Monney.App\bin\Debug\net5.0\Monney.App.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Monney.App\Monney.App\bin\Debug\net5.0\Monney.App.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\Monney.App\Monney.App\bin\Debug\net5.0\Monney.App.dll
+C:\Users\LENOVO\source\repos\Monney.App\Monney.App\bin\Debug\net5.0\ref\Monney.App.dll
+C:\Users\LENOVO\source\repos\Monney.App\Monney.App\bin\Debug\net5.0\Monney.App.pdb
+C:\Users\LENOVO\source\repos\Monney.App\Monney.App\obj\Debug\net5.0\Monney.App.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Monney.App\Monney.App\obj\Debug\net5.0\Monney.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Monney.App\Monney.App\obj\Debug\net5.0\Monney.App.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Monney.App\Monney.App\obj\Debug\net5.0\Monney.App.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Monney.App\Monney.App\obj\Debug\net5.0\Monney.App.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Monney.App\Monney.App\obj\Debug\net5.0\Monney.App.dll
+C:\Users\LENOVO\source\repos\Monney.App\Monney.App\obj\Debug\net5.0\ref\Monney.App.dll
+C:\Users\LENOVO\source\repos\Monney.App\Monney.App\obj\Debug\net5.0\Monney.App.pdb
+C:\Users\LENOVO\source\repos\Monney.App\Monney.App\obj\Debug\net5.0\Monney.App.genruntimeconfig.cache
